@@ -1,21 +1,28 @@
--Mess Management System
-The Mess Management System is a PHP-based website designed to streamline the bill submission and approval process in organizations. Created by a team of 4, this website enables employees to submit their bills online, track their status, and receive real-time notifications about the approval or disapproval of their bills.
+Certainly! Here's the concise README in bullet points:
 
--Features
-Online Bill Submission: Allows employees to submit their bills via a web interface.
-Status Tracking: Users can check the status of their submitted bills at any time.
-Manager Approval: Managers receive notifications about new bills and can approve or disapprove them.
-Real-Time Notifications: Provides instant updates on the status of bills.
-Technologies Used
-Languages: PHP, HTML, CSS, JavaScript
-Database: MySQL
-Server: XAMPP
+---
 
--to run this
-Login as a user by using the following - 
-email - sanjananaik@gmail.com
-password - abcd@123
+# Mess Management System
 
--Login as an admin by using the following l- 
-email - admin@gmail.com
-password - admin@123
+- **Description**: A PHP-based website to streamline bill submission and approval processes in organizations. Created by a team of 4, it allows employees to submit bills online, track their status, and receive real-time notifications.
+
+- **Features**:
+  - **Online Bill Submission**: Submit bills via a web interface.
+  - **Status Tracking**: Check the status of submitted bills anytime.
+  - **Manager Approval**: Managers receive notifications and can approve or disapprove bills.
+  - **Real-Time Notifications**: Instant updates on bill status.
+
+- **Technologies Used**:
+  - **Languages**: PHP, HTML, CSS, JavaScript
+  - **Database**: MySQL
+  - **Server**: XAMPP
+
+- **To Run This**:
+  - **Login as a User**:
+    - **Email**: sanjananaik@gmail.com
+    - **Password**: abcd@123
+  - **Login as an Admin**:
+    - **Email**: admin@gmail.com
+    - **Password**: admin@123
+
+---
